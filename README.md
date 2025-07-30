@@ -1,5 +1,7 @@
 ## 👋 Hi there, I'm Vibhoo Vishwakarma
 
+- ![Profile Views](https://komarev.com/ghpvc/?username=VIBHOO12&color=blue)
+
 - 🎓 I'm a recent graduate, currently learning **Java Full Stack Development**
   
 - 💻 Working with **Java**, **Spring Boot**, **HTML**, **CSS**, **JavaScript**
