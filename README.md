@@ -20,13 +20,6 @@
 - 📄 [Know about my experiences](https://drive.google.com/file/d/1ZHXaUZTK6qrGDbPbBoNLUo64B8d4iVAM/view?usp=drive_link)
 
 
-### ⚡ Fun fact
-- **I love learning new technologies!**
-- **🎵 Coding with music is my secret productivity booster**
-- **☕ Coffee + Code = Perfect Combo**
-- 🌱 I believe learning never stops – I try to learn at least **one new tech concept every week**
----
-
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://github.com/VIBHOO12" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
@@ -53,3 +46,22 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIBHOO12&layout=compact&theme=tokyonight" height="160"/>
 </p> -->
+
+---
+
+### ⚡ Fun fact
+- **I love learning new technologies!**
+- **🎵 Coding with music is my secret productivity booster**
+- **☕ Coffee + Code = Perfect Combo**
+- 🌱 I believe learning never stops – I try to learn at least **one new tech concept every week**
+---
+
+## 💡 Motivation Quotes
+- **“First, solve the problem. Then, write the code.”** 
+ — John Johnson
+-  **“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”** 
+ — Martin Fowler
+
+---
+
+Thank you for visiting! Feel free to connect or collaborate 🚀
