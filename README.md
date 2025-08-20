@@ -12,6 +12,8 @@
 - ⚛️ Currently learning **React** to enhance my frontend skills
   
 - 🔧 Passionate about backend development and building efficient web applications
+
+- 🌐 Currently working on a **JSP-based project** to strengthen my **Java + Web Development** skills  
   
 - 📚 Always eager to learn and grow through real-world development experience
   
