@@ -7,9 +7,7 @@
 
 - 🎓 I'm a recent graduate, currently learning **Java Full Stack Development**
   
-- 💻 Working with **Java**, **Spring Boot**, **HTML**, **CSS**, **JavaScript**
-  
-- ⚛️ Currently learning **React** to enhance my frontend skills
+- 💻 Working with **Java**, **Spring Boot**, **HTML**, **CSS**, **JavaScript**,**React**
   
 - 🔧 Passionate about backend development and building efficient web applications
 
