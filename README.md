@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm <b>Vibhoo Vishwakarma</b></h1>
-
-<h3 align="center">Frontend Developer | Full Stack Java Developer | React.js | Spring Boot</h3>
 
 <p align="center">
   <a href="<h1 align="center">Hi 👋, I'm <b>Vibhoo Vishwakarma</b></h1>
