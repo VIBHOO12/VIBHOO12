@@ -1,16 +1,22 @@
-
-<p align="center">
-  <a href="<h1 align="center">Hi 👋, I'm <b>Vibhoo Vishwakarma</b></h1>
+<h1 align="center">Hi 👋, I'm <b>Vibhoo Vishwakarma</b></h1>
 
 <h3 align="center">Frontend Developer | Full Stack Java Developer | React.js | Spring Boot</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;Full+Stack+Java+Developer;React.js+%7C+Spring+Boot+Developer;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
   <a href="https://drive.google.com/file/d/1ZHXaUZTK6qrGDbPbBoNLUo64B8d4iVAM/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+    <img src="https://img.shields.io/badge/📄_Download_Resume-4285F4?style=for-the-badge" />
   </a>
 
   <a href="mailto:vibhoovishwakarma@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧_Contact_Me-EA4335?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ervibhoovishwakarma">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
 </p>
 
@@ -23,12 +29,12 @@
 ## 🚀 About Me
 
 * 🎓 B.Tech Graduate in Information Technology
-* 💼 Completed **9 Months Frontend Developer Internship**
-* ⚛️ Experienced in **React.js, JavaScript, REST APIs & Tailwind CSS**
-* ☕ Building Full Stack Applications using **Java, Spring Boot & MySQL**
-* 🤖 Exploring **Generative AI** and **Agentic AI**
-* 📚 Continuously learning Data Structures, System Design & Modern Web Technologies
-* 🎯 Open to **Frontend Developer**, **Java Developer** and **Software Engineer** opportunities
+* 💼 Completed 9 Months Frontend Developer Internship
+* ⚛️ Experienced in React.js, JavaScript, REST APIs & Tailwind CSS
+* ☕ Building Full Stack Applications using Java, Spring Boot & MySQL
+* 🤖 Exploring Generative AI & Agentic AI
+* 📚 Learning DSA, System Design & Scalable Architectures
+* 🎯 Open to Frontend Developer, Java Developer & Software Engineer Roles
 
 ---
 
@@ -37,9 +43,9 @@
 * ✅ 9 Months Industry Experience
 * ✅ 15+ Reusable React Components Developed
 * ✅ 10+ REST APIs Integrated
-* ✅ Production-Level React.js Application Experience
+* ✅ Production-Level React.js Experience
 * ✅ Full Stack Java Development Projects
-* ✅ Strong Foundation in Frontend & Backend Development
+* ✅ Strong Frontend & Backend Foundation
 
 ---
 
@@ -57,6 +63,9 @@ Full Stack healthcare application for medication management and tracking.
 
 **Tech:** React.js • Spring Boot • MySQL
 
+🔗 Live Demo:
+https://medication-tracker-rmbtz5mid-vibhoo-s-projects.vercel.app
+
 ### 📄 AI Resume Analyzer
 
 AI-powered platform for resume analysis and interview preparation.
@@ -73,26 +82,8 @@ Responsive Angular application with API integration and modern UI.
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,tailwind,bootstrap,angular,mysql,git,github,postman,vscode,idea" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/VIBHOO12" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/ervibhoovishwakarma" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:vibhoovishwakarma@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
 </p>
 
 ---
@@ -100,19 +91,50 @@ Responsive Angular application with API integration and modern UI.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VIBHOO12&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIBHOO12&layout=compact&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VIBHOO12&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIBHOO12&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIBHOO12&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Current Focus
+
+* Building Full Stack Java Applications
+* Learning System Design
+* Exploring AI & Agentic Workflows
+* Contributing to Open Source
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/VIBHOO12">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ervibhoovishwakarma">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:vibhoovishwakarma@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
 ---
 
 ## 💡 Developer Mindset
 
-> **"First, solve the problem. Then, write the code."**
+> "First, solve the problem. Then, write the code."
 
-I enjoy building scalable applications, solving real-world problems, and continuously learning new technologies to become a better software engineer every day.
+Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to connect and collaborate.**
-">
+⭐ Thanks for visiting my profile! Feel free to connect and collaborate.
