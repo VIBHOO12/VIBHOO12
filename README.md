@@ -33,7 +33,7 @@
 * ⚛️ Experienced in React.js, JavaScript, REST APIs & Tailwind CSS
 * ☕ Building Full Stack Applications using Java, Spring Boot & MySQL
 * 🤖 Exploring Generative AI & Agentic AI
-* 📚 Learning DSA, System Design & Scalable Architectures
+* 📚 Learning DSA, System Design & Scalable Architectures, manual testing 
 * 🎯 Open to Frontend Developer, Java Developer & Software Engineer Roles
 
 ---
