@@ -19,6 +19,10 @@
   <a href="https://www.linkedin.com/in/ervibhoovishwakarma">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
+
+  <a href="https://vibhoo-portfolio-v2.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-34A853?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -34,7 +38,7 @@
 * ⚛️ Experienced in React.js, JavaScript, REST APIs & Tailwind CSS
 * ☕ Building Full Stack Applications using Java, Spring Boot & MySQL
 * 🤖 Exploring Generative AI & Agentic AI
-* 📚 Learning DSA, System Design & Scalable Architectures, manual testing 
+* 📚 Learning DSA, System Design & Scalable Architectures, manual testing
 * 🎯 Open to Frontend Developer, Java Developer & Software Engineer Roles
 
 ---
@@ -58,6 +62,9 @@ Production-level entertainment investment platform built with React.js.
 
 **Tech:** React.js • Tailwind CSS • REST APIs
 
+🔗 Live Demo:
+https://cinevestor-intern-project.vercel.app/home
+
 ### 💊 Medication Tracker
 
 Full Stack healthcare application for medication management and tracking.
@@ -73,11 +80,26 @@ AI-powered platform for resume analysis and interview preparation.
 
 **Tech:** React.js • Spring Boot • MySQL
 
+🔗 Live Demo:
+https://ai-resume-analyzer-ivory-nu.vercel.app/
+
 ### 💍 Matrimonial Application
 
 Responsive Angular application with API integration and modern UI.
 
 **Tech:** Angular • REST APIs • Git
+
+🔗 Live Demo:
+https://matrimonywebsitev.netlify.app/
+
+### 🏓 React Pong Game
+
+Classic Pong game built with React.js for practicing game logic and interactive UI.
+
+**Tech:** React.js • JavaScript
+
+🔗 Live Demo:
+https://react-pong-game.vercel.app/
 
 ---
 
@@ -89,16 +111,24 @@ Responsive Angular application with API integration and modern UI.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VIBHOO12&show_icons=true&theme=tokyonight" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIBHOO12&layout=compact&theme=tokyonight" height="170"/>
+  <a href="https://github.com/VIBHOO12">
+    <img src="https://img.shields.io/github/followers/VIBHOO12?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/VIBHOO12?tab=repositories">
+    <img src="https://img.shields.io/github/stars/VIBHOO12?affiliations=OWNER&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/VIBHOO12?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repositories-View-blue?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VIBHOO12&theme=tokyonight" />
+  <a href="https://github.com/VIBHOO12">
+    <img src="https://img.shields.io/badge/GitHub-VIBHOO12-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
@@ -125,6 +155,10 @@ Responsive Angular application with API integration and modern UI.
 
 <a href="mailto:vibhoovishwakarma@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://vibhoo-portfolio-v2.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28"/>
 </a>
 </p>
 
