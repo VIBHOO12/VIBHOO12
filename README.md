@@ -240,8 +240,9 @@ I am actively practicing **Data Structures & Algorithms using Java** with a focu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VIBHOO12&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=VIBHOO12&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&timezone=Asia%2FKolkata" alt="GitHub Current Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIBHOO12&layout=compact&theme=tokyonight&hide_border=true" />
